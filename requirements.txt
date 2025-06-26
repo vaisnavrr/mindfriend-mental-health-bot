@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+asyncio
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+openai
